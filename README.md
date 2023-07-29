@@ -1,2 +1,3 @@
 # MDA_pronux-_2023
-ceci et le code source html du site diayema.sn
+ceci est le code source html et css du site diayema.sn
+
